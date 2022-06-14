@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Users\0314AM\Desktop\work20220609\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3954322512.index
+\BMI-WEBAPP\src
+C:\Users\0314AM\Desktop\work20220609\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4067254754.index
+\filterapp\src
+C:\Users\0314AM\Desktop\work20220609\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\976687843.index
+\starapp\src
+C:\Users\0314AM\Desktop\work20220609\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\724556382.index
+\stationapp\src
+C:\Users\0314AM\Desktop\work20220609\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1620247817.index
+\ejword\src

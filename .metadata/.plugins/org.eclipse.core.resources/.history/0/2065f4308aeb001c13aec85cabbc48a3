@@ -1,0 +1,12 @@
+package model;
+
+import com.google.gson.stream.JsonReader;
+
+public class BMIParser {
+	public BMI getBMI(String urlString) {
+		BMI bmi = null;
+		JsonReader reader = null;
+		return bmi;
+	}
+
+}

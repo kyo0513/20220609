@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="リソース名 &apos;ejword/beatles.jaon&apos; を &apos;beatles.json&apos; に変更します" description="リソース &apos;beatles.jaon&apos; の名前変更" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="beatles.jaon" name="beatles.json" stamp="1655079929121" updateReferences="true"/>
+</session>

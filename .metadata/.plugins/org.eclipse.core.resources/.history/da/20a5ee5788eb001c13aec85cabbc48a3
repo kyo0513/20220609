@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8" import="model.*"   %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>BMI測定アプリ</title>
+</head>
+<body>
+<form action="/BMI-WEBAPP/Main" method="post">
+Height:<input type="number" name="height" step="0.1" min="0.0" placeholder="Enter Height(cm)" value=""><br>
+Weight:<input type="number" name="weight" step="0.1" min="0.0" placeholder="Enter Weight(kg)" value=""><br>
+<button type="submit">Send</button>
+</form>
+
+
+
+
+
+</body>
+</html>

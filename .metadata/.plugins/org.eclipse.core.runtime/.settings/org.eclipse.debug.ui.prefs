@@ -1,0 +1,10 @@
+Console.console_tab_width=4
+Console.highWaterMark=88000
+eclipse.preferences.version=1
+org.eclipse.debug.ui.PREF_LAUNCH_PERSPECTIVES=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<launchPerspectives/>\r\n
+org.eclipse.debug.ui.UseContextualLaunch=false
+org.eclipse.debug.ui.consoleBackground=39,40,34
+org.eclipse.debug.ui.errorColor=204,223,50
+org.eclipse.debug.ui.inColor=248,248,242
+org.eclipse.debug.ui.outColor=248,248,242
+preferredTargets=default,org.eclipse.lsp4e.debug.toggleBreakpointTarget\:default|org.eclipse.lsp4e.debug.toggleBreakpointTarget\:org.eclipse.lsp4e.debug.toggleBreakpointTarget|
