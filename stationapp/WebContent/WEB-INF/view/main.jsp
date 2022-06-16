@@ -38,5 +38,3 @@ List<Station> list=(List<Station>)request.getAttribute("list");
 <%} %>
 </body>
 </html>
-</body>
-</html>
